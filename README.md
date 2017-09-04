@@ -1,7 +1,7 @@
 # Cover Animation With Transition
 One of my old projects.
 
-[![screen](https://raw.github.com/Bloody-Badboy/Cover-Animation-With-Transition/blob/master/preview.gif)]
+[![screen](https://raw.github.com/Bloody-Badboy/Cover-Animation-With-Transition/master/preview.gif)]
 
 License
 --------
