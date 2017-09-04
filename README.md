@@ -1,7 +1,7 @@
-# Cover_Animation_With_Transition
-Animated cover animation for Android.
+# Cover Animation With Transition
+One of my old projects.
 
-[![screen](https://raw.github.com/Bloody-Badboy/Cover_Animation_With_Transition/master/preview.gif)]
+[![screen](https://raw.github.com/Bloody-Badboy/Cover-Animation-With-Transition/blob/master/preview.gif)]
 
 License
 --------
